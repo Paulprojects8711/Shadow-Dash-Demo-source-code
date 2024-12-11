@@ -1,5 +1,6 @@
 # Shadow-Dash-Demo-source-code
 This is the source code for my game "Shadow Dash". I uploaded my Gamemaker files here for anyone who wants to make mods for it.
+You must replace the version text on the menu screen with the name of your mod.
 Discord: https://discord.gg/ASN5rDNBcr
 Patreon: https://patreon.com/Paul8711gamezz
 
